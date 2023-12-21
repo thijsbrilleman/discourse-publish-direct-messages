@@ -1,0 +1,4 @@
+plugins:
+  publish_direct_messages_enabled:
+    default: true
+    client: false
