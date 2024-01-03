@@ -18,4 +18,4 @@ At `/u/<username>/messages/tags/published` any logged-in user can see all publis
 
 Admins can see all published messages of any user here:
 
-`http://localhost:4200/u/<any-username-here>/messages/tags/published`
+`/u/<any-username-here>/messages/tags/published`
